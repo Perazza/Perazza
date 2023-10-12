@@ -27,6 +27,6 @@ I have experience creating projects with databases SQL and NoSQL, predictive mod
 
 <p align="start">
 <a href="https://perazza.github.io/portfolio/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Website-Vinícius Perazza-blue?style=flat&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/vin%C3%ADcius-perazza-9375b1188/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@viniciusperazza-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/vin%C3%ADcius-perazza-9375b1188/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.kaggle.com/perazza" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
 </p>
