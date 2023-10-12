@@ -1,14 +1,6 @@
 ### Hi there 👋 I'm [Vinicius Perazza](https://perazza.github.io/portfolio/)
 > Data Scientist at [@Segware](https://www.segware.com/)
 
-<div>
- <p>
-I see my self as an multidisciplinary data science professional and a self-taught student, that can ensure effort in work with data engineering, data modeling and data visualization projects.
-
-I have experience creating projects with databases SQL and NoSQL, predictive models such as forecasting, classification, neural networks with PYTHON and R in Statistical/ML libraries and creating business analytics dashboards with POWER BI and Tableau such as costs and/or project analysis automation. I also have experience with BigData ETL process and pipelines with PySpark and Polars.
-</p>
-</div>
-
 <h2 align="start">Programming Languages 🧑🏼‍💻</h2>
 
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" alt="jQuery" width="24">](https://jquery.com/)
