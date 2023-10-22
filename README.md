@@ -39,7 +39,7 @@ I see my self as an multidisciplinary data science professional and a self-taugh
     <picture> 
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=dark" /> 
       <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /> 
-      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" width="32" height="32" /> 
+      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/> 
     </picture> 
   </a>
 </p>
