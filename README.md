@@ -3,7 +3,7 @@
 
 <h2 align="start">Programming Languages 🧑🏼‍💻</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,py,r)](https://skillicons.dev)
+[![a](https://skillicons.dev/icons?i=js,py,r)](https://skillicons.dev)
 
 <h2 align="start">Tools 🛠️</h2>
 
