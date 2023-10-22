@@ -3,12 +3,11 @@
 
 <h2 align="start">Programming Languages 🧑🏼‍💻</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,py,r)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,r,cs)](https://skillicons.dev)
 
 <h2 align="start">Tools 🛠️</h2>
 
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="24">](https://www.mysql.com/) 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/)
+[![My Tools](https://skillicons.dev/icons?i=mongodb,mysql,azure,django,flask,pytorch,tensorflow)](https://skillicons.dev)
 
 <h2 align="start">Github Stats 📊</h2>
 
