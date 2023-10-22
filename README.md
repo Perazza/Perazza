@@ -20,6 +20,13 @@ I see my self as an multidisciplinary data science professional and a self-taugh
 
 ### Socials
 
+
+<p align="start">
+<a href="https://perazza.github.io/portfolio/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/vin%C3%ADcius-perazza-9375b1188/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.kaggle.com/perazza" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
+</p>
+
 <p align="left"> 
   <a href="https://www.github.com/Perazza" target="_blank" rel="noreferrer"> 
     <picture> 
