@@ -7,7 +7,11 @@
 
 <h2 align="start">Tools 🛠️</h2>
 
-[![My Tools](https://skillicons.dev/icons?i=mongodb,mysql,azure,django,flask,pytorch,tensorflow)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=mongodb,mysql,azure,django,flask,pytorch,tensorflow,sqlite)](https://skillicons.dev)
+
+<h2 align="start">What i'm learnin 📖</h2>
+
+[![Learning](https://skillicons.dev/icons?i=aws,bash,)](https://skillicons.dev)
 
 <h2 align="start">Github Stats 📊</h2>
 
