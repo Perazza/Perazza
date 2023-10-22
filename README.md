@@ -3,6 +3,7 @@
 
 <h2 align="start">Programming Languages 🧑🏼‍💻</h2>
 
+[<img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/>](https://www.python.org/)
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" alt="jQuery" width="24">](https://jquery.com/)
 
 <h2 align="start">Tools 🛠️</h2>
