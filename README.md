@@ -8,7 +8,7 @@ I see my self as an multidisciplinary data science professional and a self-taugh
 
 * 🌍  I'm based in Brazil
 * 🖥️  See my portfolio at [Vinicius Perazza](http://perazza.github.io/portfolio/)
-* ✉️  You can contact me at [v.perazza88@gmail.com](mailto:v.perazza88@gmail.com)
+* ✉️  You can contact me at [LinkedIn](https://www.linkedin.com/in/viniciusperazza/)
 
 ### Skills
 
